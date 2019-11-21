@@ -39,6 +39,9 @@ Must have the following features:
 * fork this repo
 * create a PR with the URL to test try it.
 
+
+<hr>
+
 ## YAC - Cristian Orozco
 
 #### This App was built with ReactJS and Firebase:
@@ -47,7 +50,7 @@ The password must have 6 characters and the email correspond to just one user, i
 -	**Login** with email and password
 -	After register and login go to the chatroom where you can type and find the chat historial 
 
-Estos son los mockups:
+#### Mockups:
 ###### Log In
 <a href="https://ibb.co/QMt25q9"><img src="https://i.ibb.co/VT57KhV/signin.png" alt="signin" border="0"></a>
 
@@ -58,7 +61,7 @@ Estos son los mockups:
 <a href="https://ibb.co/ZxPXvgm"><img src="https://i.ibb.co/5Ly4CjF/chatroom.png" alt="chatroom" border="0"></a>
 
 
-#### Los componentes necesarios son:
+#### Components:
 -	Header (with Log Out section) (App Bar)
 -	Login (Sign In)
 -	Signup (Sign Up)
