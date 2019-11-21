@@ -39,10 +39,11 @@ Must have the following features:
 * fork this repo
 * create a PR with the URL to test try it.
 
-
 <hr>
+<br/>
+<br/>
 
-## YAC - Cristian Orozco
+# YAC - Cristian Orozco
 
 #### This App was built with ReactJS and Firebase:
 -	 **Sign Up** to register when the user don't have an account. Add an <i>Avatar</i> with its `url` for your profile picture.
