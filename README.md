@@ -107,4 +107,4 @@ React components for faster and easier web development.
 ##### Icons: 
 I linked Font Awesome into the `index.html` file in same way with typography font
 
-#####[Documentation](https://material-ui.com/getting-started/usage/)
+##### [Documentation](https://material-ui.com/getting-started/usage/)
